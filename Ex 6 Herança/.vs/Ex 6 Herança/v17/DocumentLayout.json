@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o Fachini\\Desktop\\BackEnd\\POO\\01 - Heran\u00E7a\\Exercicios\\Ex 6 Heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D84BB04-F88E-4FA7-9211-242B71FCB561}|Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a.csproj|c:\\users\\jo\u00E3o fachini\\desktop\\backend\\poo\\01 - heran\u00E7a\\exercicios\\ex 6 heran\u00E7a\\ex 6 heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D84BB04-F88E-4FA7-9211-242B71FCB561}|Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a.csproj|solutionrelative:ex 6 heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D84BB04-F88E-4FA7-9211-242B71FCB561}|Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a.csproj|c:\\users\\jo\u00E3o fachini\\desktop\\backend\\poo\\01 - heran\u00E7a\\exercicios\\ex 6 heran\u00E7a\\ex 6 heran\u00E7a\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D84BB04-F88E-4FA7-9211-242B71FCB561}|Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a.csproj|solutionrelative:ex 6 heran\u00E7a\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Fachini\\Desktop\\BackEnd\\POO\\01 - Heran\u00E7a\\Exercicios\\Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a\\Animal.cs",
+              "RelativeDocumentMoniker": "Ex 6 Heran\u00E7a\\Animal.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o Fachini\\Desktop\\BackEnd\\POO\\01 - Heran\u00E7a\\Exercicios\\Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a\\Animal.cs",
+              "RelativeToolTip": "Ex 6 Heran\u00E7a\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:11.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Fachini\\Desktop\\BackEnd\\POO\\01 - Heran\u00E7a\\Exercicios\\Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 6 Heran\u00E7a\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o Fachini\\Desktop\\BackEnd\\POO\\01 - Heran\u00E7a\\Exercicios\\Ex 6 Heran\u00E7a\\Ex 6 Heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Ex 6 Heran\u00E7a\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:54:08.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
